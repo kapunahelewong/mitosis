@@ -59,7 +59,6 @@ To make generating Mitosis components easier and to keep your design system in c
 - [Playground](https://mitosis.builder.io/playground)
 - [Figma integration](https://mitosis.builder.io/docs/figma/)
 - [Mitosis Discord](https://discord.gg/yxjk5vn6pn)
-- [More open-source projects from Builder] (https://github.com/orgs/BuilderIO/repositories?type=all&q=visibility%3Apublic+archived%3Afalse)
 
 ## Contribute
 
